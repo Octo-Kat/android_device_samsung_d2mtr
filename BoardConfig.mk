@@ -28,8 +28,6 @@
 
 # Assert
 TARGET_OTA_ASSERT_DEVICE := d2mtr
-
-# Kernel
-TARGET_KERNEL_CONFIG   := d2_r530_defconfig
+TARGET_BOARD_INFO_FILE ?= device/samsung/d2mtr/board-info.txt
 
 
