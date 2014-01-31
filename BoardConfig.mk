@@ -28,6 +28,5 @@
 
 # Assert
 TARGET_OTA_ASSERT_DEVICE := d2mtr
-TARGET_BOARD_INFO_FILE ?= device/samsung/d2mtr/board-info.txt
 
 
